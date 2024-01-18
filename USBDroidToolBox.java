@@ -677,7 +677,7 @@ Device will restart shortly.",
     }
 
     private void reboot() {
-        // Reboot implementation
+        
     }
 
     private void shutdown() {
